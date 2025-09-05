@@ -15,6 +15,19 @@ app.listen(PORT , ()=>{
     console.log("DB connected!");
 })
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 //dummy data
 // app.get("/addPositions" , async(req,res)=>{
 //     let tempPositionss = [

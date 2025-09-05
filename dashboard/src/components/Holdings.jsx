@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios, { all } from "axios";
 import { VerticalGraph } from "./VerticalGraph";
 
+
 // import { holdings } from "../data/data";
 
 const Holdings = () => {
